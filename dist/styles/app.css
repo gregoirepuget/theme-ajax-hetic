@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    font-family: Roboto, arial, sans-serif;
+}
+header{
+    padding-top:30px;
+    background:#bdc3c7;
+    margin-bottom:50px;
+}
+
+header .logo{
+    padding-bottom:30px;
+}
+
+nav.menu ul{
+
+list-style:none;
+margin:0;
+
+}
+
+nav.menu ul li{
+    display:inline-block;
+}
+.yellow{
+    background:#f1c40f;
+    text-transform:uppercase;
+}
+nav.menu ul li a{
+    display: block;
+    padding: 10px 20px;
+    color:white;
+}
+
+
+footer{
+    margin-top:60px;
+    padding-top:20px;
+    padding-bottom:20px;
+    background:#f1c40f;
+}
